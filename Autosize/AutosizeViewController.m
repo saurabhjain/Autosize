@@ -18,6 +18,7 @@
 
 - (void)willAnimateSecondHalfOfRotationFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation duration:(NSTimeInterval)duration {
     UIInterfaceOrientation toOrientation = self.interfaceOrientation;
+    [UIView beginAnimations:@"move buttons" context:nil];
     
     if(toOrientation == UIInterfaceOrientationPortrait || toOrientation == UIInterfaceOrientationPortraitUpsideDown) {
         button1.frame = CGRectMake(20, 20, 125, 125);
@@ -36,6 +37,8 @@
         button5.frame = CGRectMake(328, 20, 125, 125);
         button6.frame = CGRectMake(328, 155, 125, 125);
     }
+    
+    [UIView commitAnimations];
 }
 
 - (void)dealloc

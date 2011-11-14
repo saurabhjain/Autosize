@@ -9501,9 +9501,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>342928960.887757</real>
-		<string>{1097, 869}</string>
-		<string>{1538, 0}</string>
+		<real>342931125.59619802</real>
+		<string>{146, 1349}</string>
+		<string>{1473, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9908,7 +9908,7 @@
 				</dict>
 			</array>
 		</dict>
-		<integer>8</integer>
+		<integer>13</integer>
 		<string>IBStructureViewController</string>
 		<dict>
 			<key>$class</key>
@@ -10067,7 +10067,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>528</integer>
+					<integer>835</integer>
 				</dict>
 			</array>
 		</dict>
@@ -10331,7 +10331,7 @@
 				<integer>852</integer>
 			</dict>
 			<key>NS.time</key>
-			<real>342928938.277861</real>
+			<real>342931082.58021802</real>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -10342,7 +10342,7 @@
 			<key>$classname</key>
 			<string>NSDate</string>
 		</dict>
-		<string>Today at 6:02 PM</string>
+		<string>Today at 6:38 PM</string>
 		<integer>106</integer>
 		<dict>
 			<key>$class</key>
@@ -10722,7 +10722,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>372</integer>
+					<integer>23</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -11226,7 +11226,7 @@
 			</array>
 		</dict>
 		<string>ConsoleArea</string>
-		<real>721</real>
+		<real>461</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11325,7 +11325,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>721</real>
+		<real>461</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11632,10 +11632,10 @@
 				</dict>
 			</array>
 		</dict>
-		<real>342928960.891891</real>
-		<string>{1097, 869}</string>
-		<string>{1538, 0}</string>
-		<string>-dealloc</string>
+		<real>342931125.598077</real>
+		<string>{146, 1349}</string>
+		<string>{1473, 0}</string>
+		<string>-willAnimateSecondHalfOfRotationFromInterfaceOrientation:duration:</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
 		<dict>
 			<key>$class</key>
@@ -11669,7 +11669,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{0, 0}, {1020, 509}}</string>
+		<string>{{0, 0}, {760, 509}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12183,7 +12183,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>1020</real>
+		<real>760</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12230,7 +12230,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{3, -225}, {1280, 722}}</string>
+		<string>{{4, -214}, {1280, 722}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>

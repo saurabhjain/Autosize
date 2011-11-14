@@ -280,14 +280,15 @@
 						<reference key="object" ref="774585933"/>
 						<object class="NSMutableArray" key="children">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="737148180"/>
+							<reference ref="233130268"/>
+							<reference ref="192157530"/>
 							<reference ref="643011796"/>
 							<reference ref="709441789"/>
 							<reference ref="243393313"/>
-							<reference ref="192157530"/>
-							<reference ref="737148180"/>
-							<reference ref="233130268"/>
 						</object>
 						<reference key="parent" ref="0"/>
+						<string key="objectName">View</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">8</int>
